@@ -1,10 +1,10 @@
 # Code Aesthetic
 
 ## Guidlines
-- [Never Nesting](GUIDELINES/Never%20Nesting.md)
-- [Naming](GUIDELINES/Naming.md)
-- [Abstraction vs. Coupling](GUIDELINES/Abstraction%20vs%20Coupling.md)
-- [Composition > Inheritence](GUIDELINES/Composition%20%3E%20Inheritence.md)
+- [Never Nesting](Guidelines/Never%20Nesting.md)
+- [Naming](Guidelines/Naming.md)
+- [Abstraction vs. Coupling](Guidelines/Abstraction%20vs%20Coupling.md)
+- [Composition > Inheritence](Guidelines/Composition%20%3E%20Inheritence.md)
 
 ## References
 
